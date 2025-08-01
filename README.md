@@ -1,11 +1,11 @@
-LoopLab Room Demo 🎮
+# LoopLab Room Demo 🎮
 
 A looping puzzle room prototype built with Unreal Engine 5.  
 This project is part of LoopLab, a hands-on C++ and Blueprint learning experience for teens (ages 14–17), introducing core Unreal concepts like triggers, timelines, doors, and pressure plates.
 
 --------------------------------------------------
 
-🏗 Project Overview
+# 🏗 Project Overview
 
 - Engine: Unreal Engine 5.6  
 - Language: Blueprint + C++  
@@ -19,7 +19,7 @@ This project is part of LoopLab, a hands-on C++ and Blueprint learning experienc
 
 --------------------------------------------------
 
-📦 Getting Started
+# 📦 Getting Started
 
 ⚠️ This project is not complete out of the box.  
 You must manually add missing assets from Fab (Unreal’s asset library) to avoid errors.
@@ -39,7 +39,7 @@ These must be installed to the project’s Content/ folder to fully load maps an
 
 --------------------------------------------------
 
-🧩 Folder Structure
+# 🧩 Folder Structure
 
 LoopLab_RoomDemo/
 ├── Content/
@@ -53,7 +53,7 @@ LoopLab_RoomDemo/
 
 --------------------------------------------------
 
-🎯 Educational Use
+# 🎯 Educational Use
 
 This project is designed to:
 
@@ -63,7 +63,7 @@ This project is designed to:
 
 --------------------------------------------------
 
-🚧 Known Limitations
+# 🚧 Known Limitations
 
 - ❌ No .exe packaged build (due to local SDK restrictions)
 - 🔧 Requires manual content import from Fab
@@ -71,19 +71,20 @@ This project is designed to:
 
 --------------------------------------------------
 
-💡 Credits
+# 💡 Credits
 
 Project lead and initial logic by @Psidiropoulu  
 Assets courtesy of Epic Games and community content via Fab
 
 --------------------------------------------------
 
-📬 Feedback / Contributions
+# 📬 Feedback / Contributions
 
 Pull requests are welcome!  
 Issues, suggestions, and forks are encouraged.
 
 --------------------------------------------------
 
+# Additional Links and resources
 Link to all checklists: https://drive.google.com/drive/folders/12cqxU1owh7OzcXRM0RuqGHVdcscb2JXF?usp=sharing 
-And the whole course's presentation is attached here as a separate file 
+Link to presentations for both weeks: https://drive.google.com/drive/folders/14uF0GrmE6iJ_o_BWSGekfz_XPHm5jSxG?usp=sharing 
