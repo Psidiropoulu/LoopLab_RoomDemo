@@ -84,3 +84,6 @@ Pull requests are welcome!
 Issues, suggestions, and forks are encouraged.
 
 --------------------------------------------------
+
+Link to all checklists: https://drive.google.com/drive/folders/12cqxU1owh7OzcXRM0RuqGHVdcscb2JXF?usp=sharing 
+And the whole course's presentation is attached here as a separate file 
